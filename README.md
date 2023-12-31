@@ -1,6 +1,9 @@
 # Executive Sales Dashboard
 
+![SALES_DASHBOARD](https://github.com/1Numankhan/Sales-dashboard/assets/138983077/7a832116-6f3f-4ccc-b771-786ea33c5b83)
+
 ## Overview
+
 
 This dashboard visualizes key sales metrics across multiple channels, providing insights into overall performance, trends, and profitability. It creatively combines an area chart with a dual axis and line chart to effectively depict sales trends and profitability simultaneously. The dashboard was developed as a hands-on project to practice Tableau skills, including advanced layout techniques using containers.
 
